@@ -21,3 +21,5 @@ function setREVStartSize(e) {
 		console.log("Failure at Presize of Slider:" + d)
 	}
 };
+
+window.setREVStartSize = setREVStartSize;
