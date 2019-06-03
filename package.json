@@ -1,0 +1,22 @@
+{
+  "name": "revslider",
+  "version": "5.4.2018",
+  "description": "Revolution Slider",
+  "license": "MIT",
+  "author": {
+    "name": "Mehul Makwana",
+    "email": "mehulmakwana97@gmail.com"
+  },
+  "keywords": [
+    "Revolution",
+    "Slider",
+    "Plugin",
+    "revslider",
+    "themepunch",
+    "pro"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mehulmakwana97/revslider.git"
+  }
+}
