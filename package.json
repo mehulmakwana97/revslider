@@ -3,6 +3,7 @@
   "version": "5.4.2018.5",
   "description": "Revolution Slider",
   "license": "MIT",
+  "main": "index.js",
   "author": {
     "name": "Mehul Makwana",
     "email": "mehulmakwana97@gmail.com"
